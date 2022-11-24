@@ -1,0 +1,4 @@
+raf\storage\component\spec\FileStorageHandler.class
+raf\storage\config\spec\DefaultConfig.class
+raf\storage\config\spec\StorageConfig.class
+raf\storage\component\spec\Storage.class
